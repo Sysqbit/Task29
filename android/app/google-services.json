@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "191298702466",
+    "project_id": "todo-sysqbit",
+    "storage_bucket": "todo-sysqbit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191298702466:android:a60de430eb67f27fe0f89b",
+        "android_client_info": {
+          "package_name": "com.example.todo_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191298702466-5sdhm7g802pu6iu4jq8gk2u0fmhesmpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB96licWWIywvAsJ_of5IDOHeAEuAtlMrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191298702466-5sdhm7g802pu6iu4jq8gk2u0fmhesmpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
